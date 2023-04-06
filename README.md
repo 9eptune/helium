@@ -7,7 +7,7 @@
   <h3 align="center">Helium</h3>
 
   <p align="center">
-    The first ever open-source Blooket private server created by Xotic written entirely in NodeJS. 
+    The future of unblocked games. 
     <br />
     <a href="https://github.com/XOTlC/Blacket/wiki"><strong>Get Help</strong></a>
     <br />
