@@ -45,7 +45,7 @@
 
 ## About The Project
 <img src="https://assets-global.website-files.com/60e615980cab093e6f2db3c3/60f1c72b3ee90b01ad321242_Blocked_Websites_Blog_.jpeg"></img>
-Everyone in Helium hates the annoying blocked screen and not being able to have freedom with our chromebooks. So, we created a group of advanced coders that make unblocking tools, chromebook modding tools, and even websites. We hope you enjoy, and live a life without Goguardian. PS. If you know the great secret of who we are, keep it that way;a secret.
+Everyone in Helium hates the annoying blocked screen and not being able to have freedom with our Chromebooks. So, we created a group of advanced coders that make unblocking tools, Chromebook modding tools, and even websites. We hope you enjoy, and live a life without GoGuardian. PS. If you know the great secret of who we are, keep it that way; a secret.
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 ## Getting Started
