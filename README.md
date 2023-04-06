@@ -1,8 +1,8 @@
 <div id="top"></div>
 <br />
 <div align="center">
-  <a href="https://blacket.org">
-    <img src="https://blacket.org/content/logo.png" alt="Logo" width="80" height="80">
+  <a href="https://discord.gg/gTzWu7MTav">
+    <img src="[https://blacket.org/content/logo.png](https://cdn.discordapp.com/attachments/1067879899123171470/1093556006933495980/Untitled-1.png)" alt="Logo" width="80" height="80">
   </a>
   <h3 align="center">Blacket</h3>
 
