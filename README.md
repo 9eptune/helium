@@ -9,10 +9,10 @@
   <p align="center">
     The future of unblocked games. 
     <br />
-    <a href="https://github.com/XOTlC/Blacket/wiki"><strong>Get Help</strong></a>
+    <a href="https://github.com/9eptune/helium"><strong>Get Help</strong></a>
     <br />
-    <a href="https://github.com/XOTlC/Blacket/issues">Report Bug</a>
-    <a href="https://github.com/XOTlC/Blacket/issues">Request Feature</a>
+    <a href="https://github.com/9eptune/helium/issues">Report Bug</a>
+    <a href="https://github.com/9eptune/helium/issues">Request Feature</a>
   </p>
 </div>
 
