@@ -44,8 +44,8 @@
 </details>
 
 ## About The Project
-<img src="https://blacket.org/content/github/blacketHome.png"></img>
-Me personally, I love Blooket and everything about it, but I felt something was missing. A lot of people have made Blooket cheat scripts / hacks but has never ever created anything completely for Blooket itself. So thats why I created Blacket, the first open-source Blooket private server. I always wanted to have the ability to have custom packs, blooks, and more but I can't since I am not Ben Stewart (the creator of Blooket) so I have decided to create this.
+<img src="https://assets-global.website-files.com/60e615980cab093e6f2db3c3/60f1c72b3ee90b01ad321242_Blocked_Websites_Blog_.jpeg"></img>
+Everyone in Helium hates the annoying blocked screen and not being able to have freedom with our chromebooks. So, we created a group of advanced coders that make unblocking tools, chromebook modding tools, and even websites. We hope you enjoy, and live a life without Goguardian. PS. If you know the great secret of who we are, keep it that way;a secret.
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 ## Getting Started
