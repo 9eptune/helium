@@ -4,7 +4,7 @@
   <a href="https://discord.gg/gTzWu7MTav">
     <img src="https://cdn.discordapp.com/attachments/1067879899123171470/1093556006933495980/Untitled-1.png" alt="Logo" width="80" height="80">
   </a>
-  <h3 align="center">Blacket</h3>
+  <h3 align="center">Helium</h3>
 
   <p align="center">
     The first ever open-source Blooket private server created by Xotic written entirely in NodeJS. 
